@@ -1,0 +1,15 @@
+https://academind.com/tutorials?filter=javascript
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+
+https://academind.com/tutorials/reference-vs-primitive-values
+
+https://academind.com/tutorials/this-keyword-function-references
+
+https://academind.com/tutorials/reference-vs-primitive-values
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#
+
+https://academind.com/tutorials/reference-vs-primitive-values
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor
+
